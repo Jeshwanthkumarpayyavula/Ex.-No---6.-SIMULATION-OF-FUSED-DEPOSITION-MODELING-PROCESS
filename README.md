@@ -19,7 +19,6 @@
 ![mech1](https://github.com/Jeshwanthkumarpayyavula/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742402/7714d26d-85b5-48b9-9310-2649f0037ea1)
 ![mech 2](https://github.com/Jeshwanthkumarpayyavula/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742402/1517e98b-061c-48e8-8819-0b701d38cfd9)
 
-
 ## Output:
 ![output](https://github.com/Jeshwanthkumarpayyavula/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742402/f4a36d35-e667-48a1-9fb0-d1beaef59733)
 
