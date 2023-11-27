@@ -1,6 +1,6 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 
+## DATE: 27-11-2023
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
@@ -21,6 +21,7 @@
 
 
 ## Output:
+![output](https://github.com/Jeshwanthkumarpayyavula/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742402/f4a36d35-e667-48a1-9fb0-d1beaef59733)
 
 
 ### Name:P.Jeshwanth kumar
